@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="300">
 <br><br>
 </div>
 <div style="display:flex; justify-content:center;">
